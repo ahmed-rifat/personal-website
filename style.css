@@ -1,0 +1,88 @@
+body{
+    margin: 10;
+    font-family: 'Poppins', sans-serif;
+}
+.head-color{
+    color:fuchsia; 
+}
+.hire{
+    
+    background-image:url("images/header-bg.png");
+    
+}
+.Biography{
+    background-image: url("images/biography-bg.png");
+}
+.my-latest-work{
+    background-image: url("images/latest-work-bg.png");
+
+   
+}
+.Dell{
+    margin-left: 5px;
+    width: 30%;
+    
+    
+    
+    }
+.half-width{
+    
+         
+    width: 40%;
+    float: left;
+    margin-left: 10%;
+  
+}
+.half-width img{
+    width: 70%;
+}
+.half-width1{
+    width: 40%;
+    float: right ;
+    margin-right: 10%;
+    
+}
+.half-width1 img{
+    width: 70%;
+}
+.razer{
+    text-align: center;
+}
+
+.img{
+    border: red;
+}
+    
+
+    
+.link{
+     background-color: fuchsia;
+     text-decoration: none;
+     color: ghostwhite;
+     padding: 10px;
+     font-weight: 700;
+     
+     
+}
+.footer{
+    text-align: center;
+    color: gray;
+    font-size: small;
+    padding: 20px;
+    
+}
+.client{
+    text-align: center;
+    background-image: url("images/footer-bg.png");
+}
+.Gmail-color{
+    
+    border: 1px solid ;
+    background-color: fuchsia;
+    border-radius: 20px;
+    margin-left: 500px;
+    color: white;
+    width: 500px;
+    
+   
+}
