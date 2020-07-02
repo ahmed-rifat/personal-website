@@ -6,8 +6,7 @@ body{
     color:fuchsia; 
 }
 .hire{
-    
-    background-image:url("images/header-bg.png");
+      background-image:url("images/header-bg.png");
     
 }
 .Biography{
@@ -49,10 +48,7 @@ body{
     text-align: center;
 }
 
-.img{
-    border: red;
-}
-    
+
 
     
 .link{
